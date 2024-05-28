@@ -4,16 +4,7 @@ public class gopmang {
         int[] mang2 = {33, 22, 66, 78, 9, 8};
         int[] mang3 = new int[mang1.length + mang2.length];
 
-//        System.out.println("\nmang 1 là :");
-//        for (int i = 0; i < mang1.length; i++) {
-//            System.out.print(mang1[i] + " ");
-//        }
-//        System.out.println("\nmang 2 là :");
-//        for (int i = 0; i < mang2.length; i++) {
-//            System.out.print(mang2[i] + " ");
-//        }
-//
-//        System.out.println("\nMang sau khi gộp là:");
+
 
         int index = 0;
 

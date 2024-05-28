@@ -14,7 +14,7 @@ public class kiemtra1 {
         // boolean num = true ;
 
         // bài 4 : khai báo biến kiểu ký tự :
-     //   char hi =  ' a ';
+     //   char hi =  'a';
       //  System.out.println(hi );
 
         // bài 5 : khai báo biến kiểu chuỗi :
